@@ -1,0 +1,29 @@
+Time,User,Executable,CommandLine,PID,Parent PID,Privileges
+date: 20230124182044.202690+180, owner: ('DESKTOP-V8Q8DT2', 'user'), exe: C:\WINDOWS\system32\backgroundTaskHost.exe, cmd: "C:\WINDOWS\system32\backgroundTaskHost.exe" -ServerName:Microsoft.MicrosoftOfficeHub.AppX54h2e8jwdm50fj5ha8987vz1etpx7czd.mca, pid: 1148, parent_pid: 1004, priv: N/A
+
+date: 20230124182044.088321+180, owner: (None, None), exe: None, cmd: None, pid: 7872, parent_pid: 768, priv: N/A
+
+date: 20230124182044.329466+180, owner: ('DESKTOP-V8Q8DT2', 'user'), exe: C:\Windows\System32\RuntimeBroker.exe, cmd: C:\Windows\System32\RuntimeBroker.exe -Embedding, pid: 8840, parent_pid: 1004, priv: N/A
+
+date: 20230124182433.114131+180, owner: ('DESKTOP-V8Q8DT2', 'user'), exe: C:\WINDOWS\system32\SearchProtocolHost.exe, cmd: "C:\WINDOWS\system32\SearchProtocolHost.exe" Global\UsGthrFltPipeMssGthrPipe_S-1-5-21-1095552811-374451337-762910896-100186_ Global\UsGthrCtrlFltPipeMssGthrPipe_S-1-5-21-1095552811-374451337-762910896-100186 1 -2147483646 "Software\Microsoft\Windows Search" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT; MS Search 4.0 Robot)" "C:\ProgramData\Microsoft\Search\Data\Temp\usgthrsvc" "DownLevelDaemon"  "1", pid: 10440, parent_pid: 7404, priv: N/A
+
+date: 20230124182433.180873+180, owner: (None, None), exe: None, cmd: None, pid: 7740, parent_pid: 7404, priv: N/A
+
+date: 20230124182629.646456+180, owner: ('DESKTOP-V8Q8DT2', 'user'), exe: C:\Users\user\AppData\Local\Microsoft\OneDrive\22.253.1204.0001\FileCoAuth.exe, cmd: "C:\Users\user\AppData\Local\Microsoft\OneDrive\22.253.1204.0001\FileCoAuth.exe" -Embedding, pid: 9120, parent_pid: 1004, priv: N/A
+
+date: 20230124182914.891432+180, owner: (None, None), exe: None, cmd: None, pid: 10944, parent_pid: 768, priv: N/A
+
+date: 20230124182915.010668+180, owner: (None, None), exe: None, cmd: None, pid: 3344, parent_pid: 768, priv: N/A
+
+date: 20230124182914.827747+180, owner: (None, None), exe: None, cmd: None, pid: 4224, parent_pid: 1004, priv: N/A
+
+date: 20230124182916.127935+180, owner: (None, None), exe: None, cmd: None, pid: 3556, parent_pid: 9228, priv: N/A
+
+date: 20230124182916.358395+180, owner: ('DESKTOP-V8Q8DT2', 'user'), exe: None, cmd: None, pid: 3900, parent_pid: 1512, priv: N/A
+
+date: 20230124182916.303494+180, owner: (None, None), exe: None, cmd: None, pid: 4268, parent_pid: 1512, priv: N/A
+
+date: 20230124182916.120185+180, owner: (None, None), exe: None, cmd: None, pid: 472, parent_pid: 1512, priv: N/A
+
+date: 20230124182916.311181+180, owner: (None, None), exe: None, cmd: None, pid: 6356, parent_pid: 4268, priv: N/A
+
